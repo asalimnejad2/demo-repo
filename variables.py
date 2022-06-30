@@ -6,6 +6,7 @@ years = 80
 
 # Creates a variable with the boolean value of True
 expert_status = True
+print(expert_status)
 
 # Prints a statement adding the variable
 print("Nick is a professional " + title)
